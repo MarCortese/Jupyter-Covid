@@ -41,6 +41,9 @@ Di seguito un estratto temporale di quanto il notebook contiene
 ### Distribuzione dosi per regione in relazione alla popolazione residente
 ![image](https://user-images.githubusercontent.com/41300767/118693641-89253480-b80b-11eb-9253-0bc55cb53898.png)
 
+### Distribuzione percentuale dosi per fornitore
+![image](https://user-images.githubusercontent.com/41300767/120196283-f5e2fa80-c21f-11eb-9574-dbd7f467b9ad.png)
+
 ### Ripartizione distibuzione delle dosi per ogni fornitore
 ![image](https://user-images.githubusercontent.com/41300767/118693719-a0fcb880-b80b-11eb-9b7a-9c5f8cf35b2c.png)
 
