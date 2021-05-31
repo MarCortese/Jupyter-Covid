@@ -43,6 +43,7 @@ Di seguito un estratto temporale di quanto il notebook contiene
 
 ### Ripartizione distibuzione delle dosi per ogni fornitore
 ![image](https://user-images.githubusercontent.com/41300767/118693719-a0fcb880-b80b-11eb-9b7a-9c5f8cf35b2c.png)
+N.b. variazione nel dataset, grafico non più disponibile
 
 ### Trend Somministrazione dosi per fornitore
 ![image](https://user-images.githubusercontent.com/41300767/118693867-c1c50e00-b80b-11eb-904f-40debf338aa1.png)
